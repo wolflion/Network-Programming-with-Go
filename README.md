@@ -13,3 +13,6 @@ Ebook can be downloaded as [pdf](https://github.com/tumregels/Network-Programmin
 This work is licensed under a Creative Commons [Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
+
++ 20180913偶然看到这本书，琢磨是不是翻译成中文版的，看到一个小组有在弄，但他们的更新是6个月前了。
+

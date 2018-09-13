@@ -2,6 +2,8 @@
 
 Distributed systems are hard. There are multiple computers involved, which have to be connected in some way. Programs have to be written to run on each computer in the system and they all have to co-operate to get a distributed task done.
 
+分布布系统是有难度的。包含了多台计算机，每台计算机以某种方式相连。编写的程序必须在系统中的每台计算机上运行，程序间通过合作完成分布式任务。
+
 The common way to deal with complexity is to break it down into smaller and simpler parts. These parts have their own structure, but they also have defined means of communicating with other related parts. In distributed systems, the parts are called protocol layers and they have clearly defined functions. They form a stack, with each layer communicating with the layer above and the layer below. The communication between layers is defined by protocols.
 
 Network communications requires protocols to cover high-level application communication all the way down to wire communication and the complexity handled by encapsulation in protocol layers.
